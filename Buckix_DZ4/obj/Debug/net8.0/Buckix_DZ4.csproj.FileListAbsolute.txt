@@ -1,0 +1,14 @@
+C:\Users\varre\source\repos\Buckix_DZ4\Buckix_DZ4\bin\Debug\net8.0\Buckix_DZ4.exe
+C:\Users\varre\source\repos\Buckix_DZ4\Buckix_DZ4\bin\Debug\net8.0\Buckix_DZ4.deps.json
+C:\Users\varre\source\repos\Buckix_DZ4\Buckix_DZ4\bin\Debug\net8.0\Buckix_DZ4.runtimeconfig.json
+C:\Users\varre\source\repos\Buckix_DZ4\Buckix_DZ4\bin\Debug\net8.0\Buckix_DZ4.dll
+C:\Users\varre\source\repos\Buckix_DZ4\Buckix_DZ4\bin\Debug\net8.0\Buckix_DZ4.pdb
+C:\Users\varre\source\repos\Buckix_DZ4\Buckix_DZ4\obj\Debug\net8.0\Buckix_DZ4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varre\source\repos\Buckix_DZ4\Buckix_DZ4\obj\Debug\net8.0\Buckix_DZ4.AssemblyInfoInputs.cache
+C:\Users\varre\source\repos\Buckix_DZ4\Buckix_DZ4\obj\Debug\net8.0\Buckix_DZ4.AssemblyInfo.cs
+C:\Users\varre\source\repos\Buckix_DZ4\Buckix_DZ4\obj\Debug\net8.0\Buckix_DZ4.csproj.CoreCompileInputs.cache
+C:\Users\varre\source\repos\Buckix_DZ4\Buckix_DZ4\obj\Debug\net8.0\Buckix_DZ4.dll
+C:\Users\varre\source\repos\Buckix_DZ4\Buckix_DZ4\obj\Debug\net8.0\refint\Buckix_DZ4.dll
+C:\Users\varre\source\repos\Buckix_DZ4\Buckix_DZ4\obj\Debug\net8.0\Buckix_DZ4.pdb
+C:\Users\varre\source\repos\Buckix_DZ4\Buckix_DZ4\obj\Debug\net8.0\Buckix_DZ4.genruntimeconfig.cache
+C:\Users\varre\source\repos\Buckix_DZ4\Buckix_DZ4\obj\Debug\net8.0\ref\Buckix_DZ4.dll
